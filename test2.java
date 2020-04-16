@@ -27,6 +27,9 @@ public class test2 {
 		myByte = 123;
 		myBoolean = false;
 		
+		// Define and initiate/declare  variables in one go
+		int myInt = 45;
+		
 		//printing all variable at console
 		
 		System.out.println(myNumber);
@@ -37,7 +40,7 @@ public class test2 {
 		System.out.println(myChar);
 		System.out.println(myByte);
 		System.out.println(myBoolean);
-		System.out.println();
+		System.out.println(myInt);
 		
 
 	}
